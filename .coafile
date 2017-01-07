@@ -1,0 +1,22 @@
+[default]
+bears = InvalidLinkBear, FilenameBear, coalaBear
+files = **.yml, **.js, **.css, **.html, **.md, **.json
+ignore =
+[yaml]
+bears = YAMLLintBear, LineLengthBear
+files = **.yml
+[json]
+bears = JSONFormatBear, LineLengthBear
+files = **.json
+[css]
+bears = CSSLintBear
+files = **.css
+[markdown]
+bears = LineLengthBear, MarkdownBear
+files = **.md
+[html]
+bears = BootLintBear, LineLengthBear, HTMLLintBear
+files = **.html
+[javascript]
+bears = JSComplexityBear, JSHintBear
+files = **.js
