@@ -4,19 +4,20 @@ files = **.yml, **.js, **.css, **.html, **.md, **.json
 file_naming_convention = camel
 ignore =
 [yaml]
-bears = YAMLLintBear, LineLengthBear
+bears = YAMLLintBear
 files = **.yml
 [json]
-bears = JSONFormatBear, LineLengthBear
+bears = JSONFormatBear
 files = **.json
+indent_size = 2
 [css]
 bears = CSSLintBear
 files = **.css
 [markdown]
-bears = LineLengthBear, MarkdownBear
+bears = MarkdownBear
 files = **.md
 [html]
-bears = BootLintBear, LineLengthBear, HTMLLintBear
+bears = BootLintBear, HTMLLintBear
 files = **.html
 [javascript]
 bears = JSComplexityBear, JSHintBear
