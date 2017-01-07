@@ -21,6 +21,8 @@ files = **.html
 [javascript]
 bears = JSComplexityBear, JSHintBear
 files = **.js
+ignore = js/jquery.colorPicker.min.js
 allow_last_semicolon = true
 allow_missing_semicolon = true
 force_braces = false
+javascript_strictness = false
