@@ -1,6 +1,7 @@
 [default]
 bears = InvalidLinkBear, FilenameBear, coalaBear
 files = **.yml, **.js, **.css, **.html, **.md, **.json
+file_naming_convention = camel
 ignore =
 [yaml]
 bears = YAMLLintBear, LineLengthBear
@@ -20,3 +21,5 @@ files = **.html
 [javascript]
 bears = JSComplexityBear, JSHintBear
 files = **.js
+allow_last_semicolon = true
+allow_missing_semicolon = true
