@@ -101,8 +101,8 @@ Let us know how you are using Really Simple Color Picker...
 
 ### Contributors
 
-- Lakshan Perera - http://laktek.com
-- Daniel Lacy  - http://daniellacy.com
+- Lakshan Perera - <http://laktek.com>
+- Daniel Lacy  - <http://daniellacy.com>
 
 ### Issues & Suggestions
 
