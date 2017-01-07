@@ -19,6 +19,10 @@ files = **.md
 [html]
 bears = BootLintBear, HTMLLintBear
 files = **.html
+htmllint_ignore = doctype, trailing_whitespace,
+tabs, void_element, optional_tag, extra_whitespace,
+protocol, charset, type_attribute, invalid_attribute,
+concerns_separation, http_equiv
 [javascript]
 bears = JSComplexityBear, JSHintBear
 files = **.js
