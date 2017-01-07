@@ -32,3 +32,5 @@ allow_missing_semicolon = true
 force_braces = false
 javascript_strictness = false
 allow_assignment_comparisions = true
+allow_unused_variables = true
+environment_jquery = true
