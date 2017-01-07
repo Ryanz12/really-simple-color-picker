@@ -31,4 +31,4 @@ allow_last_semicolon = true
 allow_missing_semicolon = true
 force_braces = false
 javascript_strictness = false
-allow_assignment_comparisons = true
+allow_assignment_comparisions = true
