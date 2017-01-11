@@ -95,7 +95,7 @@ Demo can be found at <http://laktek.github.com/really-simple-color-picker/demo.h
 ### Real-world Examples
 
 - [CurdBee](http://demo.curdbee.com/settings/branding)
-
+- [Readability](https://web.archive.org/web/20160809043900/https://www.readability.com/developers/tools)
 Let us know how you are using Really Simple Color Picker...
 
 ### Contributors
